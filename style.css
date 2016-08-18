@@ -1,0 +1,32 @@
+body{
+border: 2px double black;
+}
+nav li{
+	display: inline;
+	padding-left: 12%;
+	font-family: monospace;
+	font-size: 1.4em;
+
+}
+nav ul{
+	/*display: inline-flex;*/
+    list-style-type: none;
+}
+.main-container{
+	/*border: 2px double black;*/
+	margin-left: 15%;
+	margin-right: 15%;
+}
+.logo-image{
+	margin-left: 60%;
+	margin-top: 2%;
+}
+.main-picture{
+	width: 100%;
+}
+.main-text{
+	padding-top: 3%;
+    text-align: center;
+    font-family: monospace;
+    font-size: 1.2em;
+}
