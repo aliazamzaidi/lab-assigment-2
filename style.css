@@ -30,3 +30,7 @@ nav ul{
     font-family: monospace;
     font-size: 1.2em;
 }
+.iframe{
+	width: 100%;
+	height: 700px;
+}
